@@ -12,8 +12,9 @@ externals:
     Libs/LibPetJournal-2.0:
         url: https://repos.curseforge.com/wow/libpetjournal-2-0
         tag: latest
+        type: hg
     Libs/LibQTip-1.0:
-        url: https://repos.wowace.com/wow/libqtip-1-0/trunk
+        url: https://repos.wowace.com/wow/libqtip-1-0
         tag: latest
 
 manual-changelog:
